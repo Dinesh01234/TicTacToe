@@ -1,13 +1,12 @@
 # TicTacToe Game
 A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
-![Tic Tac Toe game] (image.png)
 ## Features
 - Two-player game with alternating turns.
 - Dynamic UI with color-coded players.
-- Displays winner or tie outcome.
+- Displays the winner or tie outcome.
 - Responsive design for a smooth user experience.
-- Reset button to restart the game.
+- The reset button to restart the game.
 
 ## Installation
 - Clone the repository:
@@ -17,7 +16,7 @@ A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 ## How to Play
 - Players take turns clicking tiles.
 - The first player to align three of their marks (X or O) wins.
-- If all tiles are filled without a winner, the game results in a tie.
+- The game results in a tie if all tiles are filled without a winner.
 - Click the reset button to start a new round.
 
 ## Technologies Used

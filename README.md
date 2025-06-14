@@ -26,7 +26,7 @@ A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## Future Enhancements
 - Adding an AI opponent for single-player mode.
-- Enhancing visuals and animations.
+- Enhancing visuals and animations .
 - Implementing a score tracker.
 
 
